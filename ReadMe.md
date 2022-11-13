@@ -89,6 +89,8 @@ open `init.vim` file and do this
 
 ## How to Add Plugins 
 call plug#begin('C:\Users\YourUsername\AppData\Local\nvim\autoload\plugged')
+
+
 Plug 'https://github.com/scrooloose/nerdtree'
 
 call plug#end()
