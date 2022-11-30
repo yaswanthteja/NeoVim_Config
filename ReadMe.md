@@ -73,7 +73,7 @@ Now type the command
 ```
 nvim init.vim
 ```
-Now copy the code from [here]()
+Now copy the code from [here](https://github.com/yaswanthteja/NeoVim_Config/blob/master/init.vim)
 now press i in keyboard to be in   insert mode and paste that code here and click 'ESC' button and ':wq' button to save and exit the file 
 
 Now create a folder called autoload and plugged
