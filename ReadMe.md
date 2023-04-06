@@ -32,9 +32,9 @@ Open your powershell with Admin previliges and copy the commands and run on your
 Now add path to environment vriables 
 
 The path to be added in the environment variables:
-
+```
 C:\ProgramData\chocolatey\
-
+```
 The path for configuration files
 C:\Users\YourUsername\AppData\Local\nvim\init.vim
 
