@@ -1,7 +1,7 @@
 
 # Prerequisites
 
-- NEOVim ViA Chocolatey 
+- NEOVim ViA [Chocolatey]()
 
  - Vim-plug
 
